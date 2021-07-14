@@ -1,0 +1,32 @@
+E:\Authentication and Authorization\Sending Mail\Send Mail\Send Mail\bin\Debug\net5.0\appsettings.Development.json
+E:\Authentication and Authorization\Sending Mail\Send Mail\Send Mail\bin\Debug\net5.0\appsettings.json
+E:\Authentication and Authorization\Sending Mail\Send Mail\Send Mail\bin\Debug\net5.0\Send Mail.exe
+E:\Authentication and Authorization\Sending Mail\Send Mail\Send Mail\bin\Debug\net5.0\Send Mail.deps.json
+E:\Authentication and Authorization\Sending Mail\Send Mail\Send Mail\bin\Debug\net5.0\Send Mail.runtimeconfig.json
+E:\Authentication and Authorization\Sending Mail\Send Mail\Send Mail\bin\Debug\net5.0\Send Mail.runtimeconfig.dev.json
+E:\Authentication and Authorization\Sending Mail\Send Mail\Send Mail\bin\Debug\net5.0\Send Mail.dll
+E:\Authentication and Authorization\Sending Mail\Send Mail\Send Mail\bin\Debug\net5.0\ref\Send Mail.dll
+E:\Authentication and Authorization\Sending Mail\Send Mail\Send Mail\bin\Debug\net5.0\Send Mail.pdb
+E:\Authentication and Authorization\Sending Mail\Send Mail\Send Mail\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Authentication and Authorization\Sending Mail\Send Mail\Send Mail\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Authentication and Authorization\Sending Mail\Send Mail\Send Mail\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Authentication and Authorization\Sending Mail\Send Mail\Send Mail\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Authentication and Authorization\Sending Mail\Send Mail\Send Mail\obj\Debug\net5.0\Send Mail.csproj.AssemblyReference.cache
+E:\Authentication and Authorization\Sending Mail\Send Mail\Send Mail\obj\Debug\net5.0\Send Mail.GeneratedMSBuildEditorConfig.editorconfig
+E:\Authentication and Authorization\Sending Mail\Send Mail\Send Mail\obj\Debug\net5.0\Send Mail.AssemblyInfoInputs.cache
+E:\Authentication and Authorization\Sending Mail\Send Mail\Send Mail\obj\Debug\net5.0\Send Mail.AssemblyInfo.cs
+E:\Authentication and Authorization\Sending Mail\Send Mail\Send Mail\obj\Debug\net5.0\Send Mail.csproj.CoreCompileInputs.cache
+E:\Authentication and Authorization\Sending Mail\Send Mail\Send Mail\obj\Debug\net5.0\Send Mail.MvcApplicationPartsAssemblyInfo.cs
+E:\Authentication and Authorization\Sending Mail\Send Mail\Send Mail\obj\Debug\net5.0\Send Mail.MvcApplicationPartsAssemblyInfo.cache
+E:\Authentication and Authorization\Sending Mail\Send Mail\Send Mail\obj\Debug\net5.0\staticwebassets\Send Mail.StaticWebAssets.Manifest.cache
+E:\Authentication and Authorization\Sending Mail\Send Mail\Send Mail\obj\Debug\net5.0\staticwebassets\Send Mail.StaticWebAssets.xml
+E:\Authentication and Authorization\Sending Mail\Send Mail\Send Mail\obj\Debug\net5.0\scopedcss\bundle\Send Mail.styles.css
+E:\Authentication and Authorization\Sending Mail\Send Mail\Send Mail\obj\Debug\net5.0\Send Mail.RazorTargetAssemblyInfo.cache
+E:\Authentication and Authorization\Sending Mail\Send Mail\Send Mail\obj\Debug\net5.0\Send Mail.csproj.CopyComplete
+E:\Authentication and Authorization\Sending Mail\Send Mail\Send Mail\obj\Debug\net5.0\Send Mail.dll
+E:\Authentication and Authorization\Sending Mail\Send Mail\Send Mail\obj\Debug\net5.0\ref\Send Mail.dll
+E:\Authentication and Authorization\Sending Mail\Send Mail\Send Mail\obj\Debug\net5.0\Send Mail.pdb
+E:\Authentication and Authorization\Sending Mail\Send Mail\Send Mail\obj\Debug\net5.0\Send Mail.genruntimeconfig.cache
+E:\Authentication and Authorization\Sending Mail\Send Mail\Send Mail\bin\Debug\net5.0\MailKit.dll
+E:\Authentication and Authorization\Sending Mail\Send Mail\Send Mail\bin\Debug\net5.0\MimeKit.dll
+E:\Authentication and Authorization\Sending Mail\Send Mail\Send Mail\bin\Debug\net5.0\BouncyCastle.Crypto.dll
